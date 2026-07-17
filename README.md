@@ -448,7 +448,7 @@ Escolha o seu prato favorito e receba rapidamente.
 <h2>Arroz com Feijão</h2>
 
 <img
-src="HTML/Arroz com feijão.webp">
+src="Restaurante-Titanic/Arroz com feijão.webp">
 
 <p>
 
