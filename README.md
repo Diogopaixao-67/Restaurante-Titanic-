@@ -448,7 +448,7 @@ Escolha o seu prato favorito e receba rapidamente.
 <h2>Arroz com Feijão</h2>
 
 <img
-src=">
+src="https://github.com/Diogopaixao-67/Restaurante-Titanic-">
 
 <p>
 
