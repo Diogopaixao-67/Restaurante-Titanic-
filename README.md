@@ -496,7 +496,7 @@ Fazer Pedido
 <div class="promo">
 
 <img
-src="HTML/descarregar (3).webp">
+src="https://raw.githubusercontent.com/Diogopaixao-67/Restaurante-Titanic-/main/descarregar%20%283%29.webp"
 
 <h3>500 Kz</h3>
 
@@ -505,7 +505,7 @@ src="HTML/descarregar (3).webp">
 <div class="promo">
 
 <img
-src="HTML/OIP (9).webp">
+src="https://raw.githubusercontent.com/Diogopaixao-67/Restaurante-Titanic-/main/OIP%20%289%29.webp">
 
 <h3>500 Kz</h3>
 
@@ -514,7 +514,7 @@ src="HTML/OIP (9).webp">
 <div class="promo">
 
 <img
-src="HTML/descarregar (5).webp">
+src="https://raw.githubusercontent.com/Diogopaixao-67/Restaurante-Titanic-/main/descarregar%20%285%29.webp">
 
 <h3>500 Kz</h3>
 
